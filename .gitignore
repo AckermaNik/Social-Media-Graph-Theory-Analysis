@@ -1,0 +1,14 @@
+# Local Python virtual environment
+/myenv/
+
+# Other Python environments and generated files
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
